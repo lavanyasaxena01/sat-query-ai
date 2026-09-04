@@ -10,7 +10,7 @@ huggingface_hub
 rasterio
 numpy
 pandas
-opencv-python
+opencv-python-headless
 Pillow
 matplotlib
 
